@@ -32,8 +32,8 @@ deriving maximum performance with respect to response times for accessing the da
 store.
 
 # Environment Required to run this
-1. Operating system: Ubuntu 18.04
-2. Python: Python3.6 or higher
+1. Operating system: Ubuntu 18.04(as it involves some unix system calls)
+2. Python: Python3.6 or new version
 3. Dependencies installation : `python3 -m pip install -r requirements.txt`
 4. Run `app.py` to run the backend server.
     1. To start datastore from default file location, run `python3 app.py`
